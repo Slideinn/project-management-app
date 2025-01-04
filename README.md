@@ -69,7 +69,7 @@ Once the server is running, you can access the application at `http://localhost/
 ### Managing Projects
 
 - Create, update, and delete projects.
-- Assign users to projects.
+- Assign tasks to projects.
 
 ### Managing Tasks
 
